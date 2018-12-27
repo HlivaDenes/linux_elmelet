@@ -68,3 +68,30 @@ Az alábbi felsorolás tartalmazza a témakör tanítása során feldolgozandó 
 1. –	Újonnan létrehozott fájlok alapértelmezett fájlmódja.
 1. –	Fájlok és könyvtárak jogosultságainak megváltoztatása: chmod utasítás.
 
+
+#### SZAKMAI ISMERETEK
+1. Kernel és folyamat fogalma
+1. Linux disztribúciók
+1. Nyílt forráskód, licencelés
+1. CLI és GUI felületek
+1. Ablakkezelők (Window Manager) és asztali környezetek (Desktop Environment)
+1. Linux utasítások általános szintaxisa
+1. Alias fogalma
+1. Fájl és könyvtár keresési módszerek, helyettesítő karakterek
+1. Súgók és manuálok
+1. Linux könyvtár hierarchia
+1. Abszolút- és relatív elérési útvonalak
+1. Fájl- és könyvtárkezelő utasítások
+1. Archiválás és tömörítés
+1. Utasítások láncolása (pipeline), I/O átirányítás
+1. Shell szkriptek és elemeik (változók, elágazások, ciklusok)
+1. Alkalmazások telepítése, dpkg és rpm csomagok kezelése
+1. Hálózati alapbeállítások, IPv4 és IPv6 címek konfigurációja
+1. Felhasználók és csoportok menedzselése
+1. Szimbolikus- és hard linkek
+1. Fájl jogosultságok, a jogosultságok megváltoztatása
+
+
+#### SZEMÉLYES KOMPETENCIÁK
+1. Pontosság
+1. Precizitás
