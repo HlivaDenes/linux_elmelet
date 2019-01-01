@@ -1,4 +1,7 @@
 # Linux alapok elmélet tantárgy
+Felhasznált forrás: Göcs László Neumann János Egyetem http://www.gocslaszlo.hu/
+https://www.nive.hu/Downloads/Szakkepzesi_dokumentumok/Szakkepzesi_kerettantervek_2018/DL.php?f=073_54_481_06_Informatikai_rendszeruzeme
+lteto.docx
 
 #### 1év, 36 hét, 36 óra
 
