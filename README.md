@@ -12,7 +12,7 @@ A témakör célja a nyílt forráskód fogalmának bevezetése, a Linux bemutat
 1. –	Nyílt forráskód fogalma, nyílt forráskódú licencek.
 1. –	Nyílt forráskódú üzleti modell.
 1. –	Linux története.
-1. –	Linux hardverek sokszínűségének.
+1. –	Linux hardverek.
 1. –	Kernel fogalma és a verziók számozása.
 1. –	Linux disztribúciók.
 1. –	Grafikus és parancssori felület.
